@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scene/function_printing_scene.unity
+  isLoaded: 1
+  isActive: 1
